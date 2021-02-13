@@ -1,0 +1,6 @@
+﻿Name,Notation,Type
+Output,$y$,Scalar
+Output of the $i$ Observation,$y_i$,Scalar
+Input of the $i$ Observation,"$x_i = (x[0], x[1], ..., x[d])$",Vector
+Value of the $j$ Feature,$h_j(x_i)$,Scalar
+Value of the $j$ input of the $i$ Observation,$x_i[j]$,Scalar
